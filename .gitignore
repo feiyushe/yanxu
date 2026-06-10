@@ -1,8 +1,4 @@
-# 只跟踪生成的文章和配图
-!articles/
-!images/
-
-# 忽略其他所有内容
+# 只忽略不需要提交的内容
 scripts/
 data/
 references/
