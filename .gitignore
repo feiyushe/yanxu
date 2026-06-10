@@ -1,0 +1,14 @@
+# 只跟踪生成的文章和配图
+!articles/
+!images/
+
+# 忽略其他所有内容
+scripts/
+data/
+references/
+style-guide.md
+index.json
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
